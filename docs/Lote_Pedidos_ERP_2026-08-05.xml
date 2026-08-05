@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LoteIntegracaoERP xmlns="http://www.amplavendas.eng.br/schema/erp/v2" dataHora="2026-08-05T19:36:03.358762" qtdPedidos="1">
+<LoteIntegracaoERP xmlns="http://www.amplavendas.eng.br/schema/erp/v2" dataHora="2026-08-05T19:39:10.224481" qtdPedidos="1">
   <IdentificacaoOrigem>
     <Sistema>Ampla Vendas Pro - PWA Offline-First</Sistema>
     <Versao>2.4.0</Versao>
