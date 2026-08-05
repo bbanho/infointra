@@ -1,0 +1,36 @@
+{
+  "pedido": {
+    "codigo_pedido": "PED-2026-0984",
+    "vendedor_id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3d0001",
+    "vendedor_nome": "Bruno Silva (Vendedor de Campo)",
+    "cliente_id": 104,
+    "cliente_nome": "Distribuidora de Alimentos Sul Ltda",
+    "cliente_cpf_cnpj": "18.442.981/0001-92",
+    "subtotal": 12500.0,
+    "desconto_geral_valor": 500.0,
+    "total": 12000.0,
+    "forma_pagamento": "BOLETO_30_60_90",
+    "parcelas": 3,
+    "condicao_pagamento": "Boleto Faturado ERP (3x sem juros)",
+    "observacoes": "Entrega agendada para o turno da manhã. Cliente solicitou nota espelho impressa.",
+    "status_sync": "pendente_sync",
+    "status_fiscal": "PENDENTE",
+    "data_criacao": "2026-08-05T19:36:03.358762"
+  },
+  "itens": [
+    {
+      "sku": "HW-SRV-R750",
+      "nome": "Servidor Dell PowerEdge R750 Xeon Silver",
+      "quantidade": 1,
+      "preco_unitario": 8500.0,
+      "subtotal": 8500.0
+    },
+    {
+      "sku": "SW-LIC-ERP12",
+      "nome": "Licença ERP Cloud PRO - Assinatura Anual",
+      "quantidade": 1,
+      "preco_unitario": 4000.0,
+      "subtotal": 4000.0
+    }
+  ]
+}
